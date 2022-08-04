@@ -58,3 +58,8 @@
 - React, Axios, Redux
 # 백엔드
 - Spring, JPA, MYSQL, GRADLE, GitHub, AWS, Spring Security
+
+## ERD
+![erd](https://user-images.githubusercontent.com/56526225/182810532-a39bd897-14aa-4cab-a5f2-01e4a6872e6d.png)
+
+
