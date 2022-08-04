@@ -21,10 +21,10 @@
   <tr>
     <td>박정원</td>
     <td>조수빈</td>
-    <td>송주영</td>
+    <td>이성훈</td>
     <td>안상록</td>
     <td>안홍주</td>
-    <td>이성훈</td>
+    <td>송주영</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></td>
