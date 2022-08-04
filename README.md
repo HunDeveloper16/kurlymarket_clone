@@ -1,5 +1,5 @@
 <div align = center>
-<img src="src/main/resources/image/kurly." width="700" height="400" />
+<img src="src/main/resources/image/kurly.png" width="700" height="400" />
 </div>
 
 ## 마켓 컬리(클론 코딩) 소개
